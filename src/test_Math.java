@@ -28,3 +28,5 @@ public class test_Math {
         Assert.assertTrue(20 == TestOp.method_for_Excercise01(100, "divide", 5) );
     }
 }
+
+//Test
