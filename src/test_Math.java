@@ -1,4 +1,7 @@
 /*
+SPDX-FileCopyrightText: 2023 Luis Fenßlein
+SPDX-License-Identifier: MIT
+
 This is a test class for testing the "Math" class
  */
 
