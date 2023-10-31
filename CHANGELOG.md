@@ -9,11 +9,8 @@ All notable changes will be documented in this file.
 
 ## [Unreleased]
 
-## [1.0.0] - 2021-06-07
+## [1.0.0] - 2023-10-31
 
 ### Added
 
-- Initial series of plots
-
-[unreleased]: https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis/compare/1.0.0...master
-[1.0.0]: https://gitlab.com/hifis/hifis-workshops/make-your-code-ready-for-publication/astronaut-analysis/-/tags/1.0.0
+- Folders and Files as examples
