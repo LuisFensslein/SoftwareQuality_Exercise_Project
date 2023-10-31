@@ -1,3 +1,7 @@
+/*
+This is a test class for testing the "Math" class
+ */
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
