@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Luis Fenßlein
+# SPDX-License-Identifier: MIT
+
+# Packages required to run the test script
+JUnit 4
+
