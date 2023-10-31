@@ -5,10 +5,7 @@ In this context, we investigated aspects such as time humans spent in space as w
 
 The repository is organized as follows:
 
-- [data](data): Contains the astronauts data set retrieved from Wikidata
-- [code](code): Contains the astronaut analysis script
-- [results](results): Contains the resulting analysis plots
-
+- [[.src](src): Contains the Math script
 
 ## Astronaut Data
 
