@@ -2,5 +2,5 @@
 # SPDX-License-Identifier: MIT
 
 # Packages required to run the test script
-JUnit 4
+JUnit 4 == 4.12
 
