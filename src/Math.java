@@ -1,4 +1,7 @@
 /*
+SPDX-FileCopyrightText: 2023 Luis Fenßlein
+SPDX-License-Identifier: MIT
+
 This script provides a method for simple mathematical calculations (plus/minus/multiply/divide) with integers
  */
 public class Math {
