@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 /.idea
+SoftwareQuality_Exercise_Project.iml
 
 ### Eclipse ###
 .apt_generated
