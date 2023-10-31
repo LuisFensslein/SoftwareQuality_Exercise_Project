@@ -1,11 +1,10 @@
 # SoftwareQuality_Exercise_Project
 
-This analysis is based on publicly available astronauts data from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
-In this context, we investigated aspects such as time humans spent in space as well as the age distribution of the astronauts.
+This Project is solely used for demonstration purposes. Therefore the code (located in [src](src))
 
 The repository is organized as follows:
 
-- [[.src](src): Contains the Math script
+- [src](src): Contains the Math script
 
 ## Astronaut Data
 
