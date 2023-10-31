@@ -16,3 +16,22 @@ Please clone this repository.
 
 The [test_Math.java](src/test_Math.java) script can be used to test the functionality of the [Math.java](src/Math.java) script. Please be aware that the tests require the JUnit framework (tested with JUnit 4).
 
+## Citation
+
+If you want to cite this work please use the specific version using the citation metadata on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.ZENODO-DOI.svg)](https://doi.org/10.5281/zenodo.ZENODO-DOI).
+
+Please view the [changelog](CHANGELOG.md) for the different versions.
+
+## Contributors
+
+The main contributers are listed here:
+
+- Luis Fenßlein
+
+## Changes
+
+Important changes are documented in the [changelog](CHANGELOG.md).
+
+## License
+
+Please see [LICENSE.md](LICENSE.md) for information about how the content is licensed.
